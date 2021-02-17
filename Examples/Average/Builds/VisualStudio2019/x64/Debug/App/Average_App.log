@@ -1,0 +1,25 @@
+﻿  AverageProcessor.cpp
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Average\Source\AverageProcessor.cpp(43,42): warning C4100: 'samplesPerBlockExpected': unreferenced formal parameter
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Average\Source\AverageProcessor.cpp(104,30): warning C4456: declaration of 'inputSampleL' hides previous local declaration
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Average\Source\AverageProcessor.cpp(59,9): message : see declaration of 'inputSampleL'
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Average\Source\AverageProcessor.cpp(105,30): warning C4456: declaration of 'inputSampleR' hides previous local declaration
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Average\Source\AverageProcessor.cpp(60,9): message : see declaration of 'inputSampleR'
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Average\Source\AverageProcessor.cpp(144,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Average\Source\AverageProcessor.cpp(145,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Average\Source\AverageProcessor.cpp(149,47): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Average\Source\AverageProcessor.cpp(153,47): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Average\Source\AverageProcessor.cpp(183,35): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Average\Source\AverageProcessor.cpp(187,35): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Average\Source\AverageProcessor.cpp(208,10): warning C4244: '=': conversion from 'long double' to 'Type', possible loss of data
+          with
+          [
+              Type=float
+          ]
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Average\Source\AverageProcessor.cpp(209,10): warning C4244: '=': conversion from 'long double' to 'Type', possible loss of data
+          with
+          [
+              Type=float
+          ]
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Average\Source\AverageProcessor.cpp(60,9): warning C4101: 'inputSampleR': unreferenced local variable
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Average\Source\AverageProcessor.cpp(59,9): warning C4101: 'inputSampleL': unreferenced local variable
+  Average_App.vcxproj -> C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Average\Builds\VisualStudio2019\x64\Debug\App\Average.exe
