@@ -1,0 +1,2 @@
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\GlitchShifter\Builds\VisualStudio2019\x64\Debug\App\GlitchShifterPort.exe
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\GlitchShifter\Builds\VisualStudio2019\x64\Debug\App\GlitchShifterPort.pdb
