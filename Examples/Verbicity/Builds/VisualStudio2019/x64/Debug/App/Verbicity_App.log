@@ -1,0 +1,74 @@
+﻿  VerbicityProcessor.cpp
+  Main.cpp
+  MainComponent.cpp
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+  include_juce_audio_formats.cpp
+  include_juce_audio_processors.cpp
+  include_juce_audio_utils.cpp
+  include_juce_core.cpp
+  include_juce_data_structures.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_basics.cpp
+  include_juce_gui_extra.cpp
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\Main.cpp(24,42): warning C4100: 'commandLine': unreferenced formal parameter
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\Main.cpp(46,54): warning C4100: 'commandLine': unreferenced formal parameter
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\MainComponent.cpp(81,91): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\MainComponent.cpp(82,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(74,9): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(75,9): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(87,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(92,44): warning C4100: 'samplesPerBlockExpected': unreferenced formal parameter
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(107,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(128,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(129,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(130,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(131,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(133,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(134,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(135,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(136,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(138,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(139,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(140,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(141,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(152,37): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(154,37): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(171,31): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(172,31): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(173,31): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(174,31): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(175,31): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(176,31): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(177,31): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(178,31): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(258,48): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(260,48): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(261,19): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(263,48): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(265,48): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(266,19): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(270,62): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(271,63): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(272,19): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(274,62): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(275,63): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(276,19): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(280,48): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(281,19): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(283,48): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(284,19): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(295,37): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(297,37): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(315,11): warning C4244: '=': conversion from 'long double' to 'Type', possible loss of data
+          with
+          [
+              Type=float
+          ]
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Source\VerbicityProcessor.cpp(316,11): warning C4244: '=': conversion from 'long double' to 'Type', possible loss of data
+          with
+          [
+              Type=float
+          ]
+  Verbicity_App.vcxproj -> C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Builds\VisualStudio2019\x64\Debug\App\Verbicity.exe

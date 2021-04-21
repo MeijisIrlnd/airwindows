@@ -1,0 +1,2 @@
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Builds\VisualStudio2019\x64\Debug\App\Galactic.exe
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Builds\VisualStudio2019\x64\Debug\App\Galactic.pdb

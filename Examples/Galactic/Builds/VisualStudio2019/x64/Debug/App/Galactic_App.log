@@ -1,0 +1,78 @@
+﻿  GalacticProcessor.cpp
+  Main.cpp
+  MainComponent.cpp
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+  include_juce_audio_formats.cpp
+  include_juce_audio_processors.cpp
+  include_juce_audio_utils.cpp
+  include_juce_core.cpp
+  include_juce_data_structures.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_basics.cpp
+  include_juce_gui_extra.cpp
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\Main.cpp(24,42): warning C4100: 'commandLine': unreferenced formal parameter
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\Main.cpp(46,54): warning C4100: 'commandLine': unreferenced formal parameter
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(80,9): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(81,9): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(93,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(97,43): warning C4100: 'samplesPerBlockExpected': unreferenced formal parameter
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(113,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\MainComponent.cpp(82,91): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(126,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\MainComponent.cpp(83,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(127,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(128,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(129,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(130,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(131,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(132,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(133,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(134,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(135,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(136,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(137,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(155,30): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(156,30): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(161,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(162,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(173,37): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(175,37): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(180,31): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(181,31): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(182,31): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(183,31): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(184,31): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(185,31): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(186,31): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(187,31): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(267,48): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(269,48): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(270,19): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(272,48): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(274,48): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(275,19): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(279,62): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(280,63): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(281,19): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(283,62): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(284,63): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(285,19): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(289,48): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(290,19): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(292,48): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(293,19): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(304,37): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(306,37): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(322,10): warning C4244: '=': conversion from 'long double' to 'Type', possible loss of data
+          with
+          [
+              Type=float
+          ]
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Source\GalacticProcessor.cpp(323,10): warning C4244: '=': conversion from 'long double' to 'Type', possible loss of data
+          with
+          [
+              Type=float
+          ]
+  Galactic_App.vcxproj -> C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Galactic\Builds\VisualStudio2019\x64\Debug\App\Galactic.exe

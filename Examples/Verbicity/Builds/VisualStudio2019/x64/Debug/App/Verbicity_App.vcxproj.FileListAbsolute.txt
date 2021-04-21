@@ -1,0 +1,2 @@
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Builds\VisualStudio2019\x64\Debug\App\Verbicity.exe
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\Verbicity\Builds\VisualStudio2019\x64\Debug\App\Verbicity.pdb
