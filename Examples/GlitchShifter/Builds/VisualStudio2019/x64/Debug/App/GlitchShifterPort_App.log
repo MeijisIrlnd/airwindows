@@ -1,0 +1,35 @@
+﻿  GlitchShifterProcessor.cpp
+  Main.cpp
+  MainComponent.cpp
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+  include_juce_audio_formats.cpp
+  include_juce_audio_processors.cpp
+  include_juce_audio_utils.cpp
+  include_juce_core.cpp
+  include_juce_data_structures.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_basics.cpp
+  include_juce_gui_extra.cpp
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\GlitchShifter\Source\MainComponent.cpp(40,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\GlitchShifter\Source\GlitchShifterProcessor.cpp(75,48): warning C4100: 'samplesPerBlockExpected': unreferenced formal parameter
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\GlitchShifter\Source\GlitchShifterProcessor.cpp(104,25): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\GlitchShifter\Source\GlitchShifterProcessor.cpp(109,14): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\GlitchShifter\Source\GlitchShifterProcessor.cpp(112,25): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\GlitchShifter\Source\GlitchShifterProcessor.cpp(117,14): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\GlitchShifter\Source\MainComponent.cpp(82,91): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\GlitchShifter\Source\MainComponent.cpp(83,171): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\GlitchShifter\Source\GlitchShifterProcessor.cpp(386,10): warning C4244: '=': conversion from 'long double' to 'Type', possible loss of data
+          with
+          [
+              Type=float
+          ]
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\GlitchShifter\Source\GlitchShifterProcessor.cpp(387,10): warning C4244: '=': conversion from 'long double' to 'Type', possible loss of data
+          with
+          [
+              Type=float
+          ]
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\GlitchShifter\Source\Main.cpp(24,42): warning C4100: 'commandLine': unreferenced formal parameter
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\GlitchShifter\Source\Main.cpp(46,54): warning C4100: 'commandLine': unreferenced formal parameter
+  GlitchShifterPort_App.vcxproj -> C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\GlitchShifter\Builds\VisualStudio2019\x64\Debug\App\GlitchShifterPort.exe

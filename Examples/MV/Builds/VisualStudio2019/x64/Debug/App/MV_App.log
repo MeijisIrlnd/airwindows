@@ -1,0 +1,127 @@
+﻿  MVProcessor.cpp
+  MainComponent.cpp
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MainComponent.cpp(40,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MainComponent.cpp(82,91): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MainComponent.cpp(83,118): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(97,37): warning C4100: 'samplesPerBlockExpected': unreferenced formal parameter
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(110,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(111,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(162,21): warning C4244: 'initializing': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(163,21): warning C4244: 'initializing': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(177,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(181,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(188,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(193,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(203,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(207,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(214,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(219,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(229,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(233,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(240,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(245,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(255,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(259,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(266,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(271,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(281,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(285,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(292,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(297,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(307,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(311,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(318,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(323,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(333,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(337,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(344,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(349,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(359,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(363,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(370,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(375,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(385,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(389,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(396,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(401,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(411,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(415,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(422,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(427,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(437,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(441,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(448,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(453,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(463,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(467,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(474,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(479,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(489,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(493,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(500,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(505,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(515,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(519,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(526,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(531,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(541,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(545,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(552,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(557,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(567,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(571,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(578,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(583,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(593,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(597,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(604,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(609,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(619,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(623,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(630,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(635,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(645,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(649,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(656,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(661,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(671,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(675,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(682,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(687,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(697,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(701,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(708,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(713,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(723,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(727,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(734,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(739,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(749,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(753,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(760,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(765,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(775,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(779,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(786,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(791,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(801,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(805,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(812,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(817,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(827,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(831,16): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(838,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(843,15): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(851,28): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(852,28): warning C4244: '=': conversion from 'long double' to 'double', possible loss of data
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(884,10): warning C4244: '=': conversion from 'long double' to 'Type', possible loss of data
+          with
+          [
+              Type=float
+          ]
+C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Source\MVProcessor.cpp(885,10): warning C4244: '=': conversion from 'long double' to 'Type', possible loss of data
+          with
+          [
+              Type=float
+          ]
+  MV_App.vcxproj -> C:\Users\Syl\Documents\Dev\AirWindowsFork\airwindows\Examples\MV\Builds\VisualStudio2019\x64\Debug\App\MV.exe
